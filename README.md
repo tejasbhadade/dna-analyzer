@@ -8,6 +8,7 @@ This tool analyzes a DNA sequence and calculates:
 - Nucleotide counts (A, T, G, C)
 - GC content percentage
 - Reverse complement
+Added ORF detection and protein translation feature
 
 Built using Python.
 
