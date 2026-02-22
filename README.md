@@ -11,4 +11,4 @@ This tool analyzes a DNA sequence and calculates:
 
 Built using Python.
 
-Author: Your Name
+Author: Tejas
